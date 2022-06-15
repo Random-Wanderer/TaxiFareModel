@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/lorenzo/code/Random-Wanderer/TaxiFareModel/mlruns/1/03c8c19cea514696adde007435dead77/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 03c8c19cea514696adde007435dead77
+run_uuid: 03c8c19cea514696adde007435dead77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1637038980331
+status: 1
+tags: []
+user_id: unknown
